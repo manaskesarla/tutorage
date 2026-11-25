@@ -430,5 +430,5 @@ Future roadmap:
 ---
 
 # License
-
+all owned by manas gupta kesarla all rights reserved
 MIT License
